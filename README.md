@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **loc-dev/loc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 🖖, I'm Leonardo</h1>
+<h2 align="center">Welcome to my profile GitHub!</h2>
+
+🙋‍♂️ I'm a Front End Development Student and System Analysis and Development
+📅 I'm 22 years old
+🗺 I'm living in Cuiabá, Mato Grosso, Brazil
+
+📖 I'm currently learning CSS and Python
+📈 I'm planning my time for new ideas and courses
+📝 I intend to study more English and Agile software development
+⌨ Ask me about HTML, CSS, JavScript, Python or Programming Logic
+
+📚 Skills : HTML | CSS | JavaScript | Python | Git
+
+💻 Contact me at LinkedIn https://www.linkedin.com/in/leonardoc-dev/
