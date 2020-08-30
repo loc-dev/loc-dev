@@ -16,15 +16,23 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 🖖, I'm Leonardo</h1>
 <h2 align="center">Welcome to my profile GitHub!</h2>
 
-🙋‍♂️ I'm a Front End Development Student and System Analysis and Development
-📅 I'm 22 years old
-🗺 I'm living in Cuiabá, Mato Grosso, Brazil
+- 🙋‍♂️ I'm a Front End Development Student and System Analysis and Development
 
-📖 I'm currently learning CSS and Python
-📈 I'm planning my time for new ideas and courses
-📝 I intend to study more English and Agile software development
-⌨ Ask me about HTML, CSS, JavScript, Python or Programming Logic
+- 📅 I'm 22 years old
 
-📚 Skills : HTML | CSS | JavaScript | Python | Git
+- 🗺 I'm living in Cuiabá, Mato Grosso, Brazil
+___
 
-💻 Contact me at LinkedIn https://www.linkedin.com/in/leonardoc-dev/
+- 📖 I'm currently learning CSS and Python
+
+- 📈 I'm planning my time for new ideas and courses
+
+- 📝 I intend to study more English and Agile software development
+
+- ⌨ Ask me about HTML, CSS, JavScript, Python or Programming Logic
+___
+
+- 📚 Skills : HTML | CSS | JavaScript | Python | Git
+___
+
+- 💻 Contact me at LinkedIn https://www.linkedin.com/in/leonardoc-dev/
