@@ -29,7 +29,7 @@ ___
 
 - 📝 I intend to study more English and Agile software development
 
-- ⌨ Ask me about HTML, CSS, JavScript, Python or Programming Logic
+- ⌨ Ask me about HTML, CSS, JavaScript, Python or Programming Logic
 ___
 
 - 📚 Skills : HTML | CSS | JavaScript | Python | Git
