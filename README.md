@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 🖖, I'm Leonardo</h1>
 <h2 align="center">Welcome to my profile GitHub!</h2>
 
-- 🙋‍♂️ I'm a Front End Development Student and System Analysis and Development
+- 🙋‍♂️ I'm a student of System Analysis and Development
 
-- 📅 I'm 22 years old
+- 📅 I'm 23 years old
 
 - 🗺 I'm living in Cuiabá, Mato Grosso, Brazil
 ___
 
-- 📖 I'm currently learning CSS and Python
+- 📖 I'm currently learning Python and Flask
 
 - 📈 I'm planning my time for new ideas and courses
 
